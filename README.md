@@ -1,0 +1,2 @@
+Link pagina del autor original:
+https://www.pcbway.com/project/shareproject/Explore_using_a_customized_Arduino_Nano_based_board_to_wirelessly_control_up_to_078e9d15.html
